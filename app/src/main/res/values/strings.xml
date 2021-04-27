@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MARK MWANGI PORTFOLIO</string>
+    <string name="mgm_app">Mgm App</string>'
+    <string name="bio">
+        My full-name is Mark Mwangi Gaituri.
+        I am a current student at JKUAT studying Telecommunication And Information Engineering.
+        With hope of improving my academic career I am currently studying a programming class.
+    </string>
+    <string-array name="hobbies">
+        <item>Cycling</item>
+        <item>Reading</item>
+        <item>Travelling</item>
+        <item>cooking</item>
+        <item>fun farming</item>
+
+    </string-array>
+
+    <string-array name="skills">
+        <item>Sales</item>
+        <item>Invoicing</item>
+        <item>Programming</item>
+        <item>Driving</item>
+        <item>Auditing</item>
+
+    </string-array>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="random_text">Actually speaking electronic data processing does not go back more than just half a centaury i.e. they are in existence merely from early 1940’s. In early days when our ancestor used to reside in cave the counting was a problem. Still it is stated becoming difficult. When they started using stone to count their animals or the possession they never knew that this day will lead to a computer of today. People today started following a set of procedure to perform calculation with these stones, which later led to creation of a digital counting device, which was the predecessor the first calculating device invented, was know as ABACUS.</string>
+</resources>
